@@ -3,7 +3,8 @@
 🎓 I’m currently pursuing my final year **B.Tech in Artificial Intelligence and Data Science**.  
 💼 I have completed a **1-month internship as a Full Stack Developer**.  
 💡 My primary skills are **Java, React, and MySQL**, and I enjoy working on full-stack projects.  
-📱 Contact: **8825696076** | 📧 Email: **silambarasanp846@gmail.com**  
+📱 Contact: **8825696076** | 📧 Email: **silambarasanp846@gmail.com**
+Portfolio:https://silambarasan-portfolio.blogspot.com/
 
 ---
 
